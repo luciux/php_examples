@@ -1,0 +1,18 @@
+1 - Fazer uma biblioteca c/ funcao para imprimir o cabecalho e o radape da pagina. Fazer no minimo 2 paginas que use a biblioteca.
+
+2 - Fazer uma Calculadora. O usuario digita dois valores e uma operação em um formulário, envia e visualiza o resultado (use <selection> para a seleção da operação).
+
+3 - Um form com um <textarea> no qual o usuário informa um texto. Ao enviar os dados, o usuário é informado sobre todas as palavras usadas e quantas vezes cada uma aparece.
+
+EX: 
+
+	"Oi teste com o texto	| oi 		1
+	com teste no php."	| teste		2
+				| com 		2
+				| texto		1
+				| php		1	
+				| no 		1
+
+
+4 - Faça duas páginas: login.php e testa.php Na login.php existe um formulario com dois campos: "Usuário" e "Senha". Os dadis desse form devem ser enviados para a testa.php via POST. A testa.php não deve imprimir conteúdo, eka apenas testa os dados e redireciona p/ login.php.
+Se o usuário não for "teste", login.php mostra um erro usuário inválido. Se a senha não for "123", login.php mostra um erro de senha inválida. Se o usuário e senha estiverem corretos, login.php mostra "SUCESSO!".  
