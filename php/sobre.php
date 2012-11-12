@@ -4,6 +4,7 @@
 	
 	cabecalho("Pagina Inicial");
 	echo '<p> Ola Mundo </p>';
-	echo'<a href="perfil.php">Perfil</a>';
+	echo'<p> <a href="perfil.php">Perfil</a> </p>';
+	
 	rodape();
 ?>
